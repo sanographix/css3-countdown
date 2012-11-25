@@ -35,6 +35,9 @@ h1,
 h2 {
     margin: 0;
     color: #eee;
+    -moz-text-shadow: 0 3px 3px #000000;
+    -webkit-text-shadow: 0 3px 3px #000000;
+    text-shadow: 0 3px 3px #000000;
 }
     
 h1 {
