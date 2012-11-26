@@ -3,6 +3,7 @@ css3-countdown
 
 ### Flip-style countdown timer
 
+You can easily create countdown page (ex:teaser site).
 
 # Demo
 
