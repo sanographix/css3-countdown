@@ -1,9 +1,9 @@
 css3-countdown
 ==============
 
-### Flip-style countdown timer
+### Flip style countdown timer
 
-You can easily create countdown page (ex:teaser site).
+You can easily create countdown page (teaser site, etc…).
 
 # Demo
 
@@ -27,3 +27,13 @@ You can easily create countdown page (ex:teaser site).
 
 I created this countdown timer by using this script:  
 [コピペでサクッと導入できるライブラリ非依存のJavascriptカウントダウン](http://plusblog.jp/3719/)
+
+
+
+# Author
+
+Showkaku Sano (sanographix)
+
+* [website](http://www.sanographix.net/)
+* [@sanographix](https://twitter.com/sanographix)
+* [https://github.com/sanographix](https://github.com/sanographix)
