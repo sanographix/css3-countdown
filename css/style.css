@@ -10,7 +10,7 @@ body {
 }
 
 .bg-gradient {
-    position: absolute;
+    position: fixed;
     width: 1000px;
     height: 1000px;
     top: 50%;
