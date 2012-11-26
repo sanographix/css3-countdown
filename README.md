@@ -10,7 +10,7 @@ You can easily create countdown page (teaser site, etc…).
 [https://dl.dropbox.com/u/282961/jadda-devel/css3-countdown/index.html](https://dl.dropbox.com/u/282961/jadda-devel/css3-countdown/index.html)
 
 
-# How to use
+# Usage
 
 
 ## 1. Edit HTML
