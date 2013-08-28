@@ -7,7 +7,7 @@ You can easily create countdown page (teaser site, etc…).
 
 # Demo
 
-[https://dl.dropbox.com/u/282961/jadda-devel/css3-countdown/index.html](https://dl.dropbox.com/u/282961/jadda-devel/css3-countdown/index.html)
+<http://sanographix.github.io/css3-countdown/demo/>
 
 
 # Usage
